@@ -13,5 +13,5 @@ suma = 0
 for i in range(len(vector)):
     suma += vector[i]
 
-mean_value = suma / len(vector)
-print("El promedio de todos los valores es:", mean_value)
+promedio = suma / len(vector)
+print("El promedio de todos los valores es:", promedio)
